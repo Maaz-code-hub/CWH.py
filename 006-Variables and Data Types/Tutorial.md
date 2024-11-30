@@ -1,4 +1,3 @@
-
 # Day 6 - Variables and Data Types
 ## What is a variable?
 Variable is like a container that holds data. Very similar to how our containers in kitchen holds sugar, salt etc
