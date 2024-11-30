@@ -1,7 +1,14 @@
-a=5
-b=4
-print("Value of",a,"+",b, "is =",a+b)
-print("Value of",a,"-",b, "is =",a-b)
-print("Value of",a,"*",b, "is =",a*b)
-print("Value of",a,"/",b, "is =",a/b)
+# a=5
+# b=4
+# print("Value of",a,"+",b, "is =",a+b)
+# print("Value of",a,"-",b, "is =",a-b)
+# print("Value of",a,"*",b, "is =",a*b)
+# print("Value of",a,"/",b, "is =",a/b)
 
+#after learning input
+a = int(input("Enter the value of a : "))
+b = int(input("Enter the value of b : "))
+print("The value of",a,"+",b,"=",a+b)
+print("The value of",a,"-",b,"=",a-b)
+print("The value of",a,"/",b,"=",a/b)
+print("The value of",a,"*",b,"=",a*b)
