@@ -1,19 +1,3 @@
-# a=1
-# print(a)
-# b = "Maaz"
-# print(b) 
-# d =  "True"
-# print(b+d)
-
-#list and tupple
-
-# **list:**  A list is an ordered collection of data with elements separated by a comma and enclosed within square brackets. Lists are mutable and can be modified after creation.
-
-# **Tuple:**  A tuple is an ordered collection of data with elements separated by a comma and enclosed within parentheses. Tuples are immutable and can not be modified after creation.
-
-# **dict:** A dictionary is an unordered collection of data containing a key:value pair. The key:value pairs are enclosed within curly brackets.
-
-#checking type
 a=1  
 b="Maaz"
 c=True
