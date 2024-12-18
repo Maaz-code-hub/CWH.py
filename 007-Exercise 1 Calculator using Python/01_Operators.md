@@ -11,7 +11,7 @@ Python has different types of operators for different operations. To create a ca
 |**|`Exponential`            |``` 5**3 ```            |
 |/|`Division`            |``` 5/3 ```            |
 |%|`Modulus`            |``` 15%7 ```            |
-|//|`Floor Division`            |``` 15//7 ```            |
+|//|`Floor Division(quotient)`            |``` 15//7 ```            |
 
 # Exercise
 ```python
