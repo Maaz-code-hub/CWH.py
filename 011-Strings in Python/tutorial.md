@@ -28,6 +28,14 @@ sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua."""
 print(a)
 ```
+OR
+```python 
+a = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(a)
+```
 
 ## Accessing Characters of a String
 In Python, string is like an array of characters. We can access parts of string by using its index which starts from 0.\

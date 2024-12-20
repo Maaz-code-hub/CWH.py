@@ -32,7 +32,7 @@ The strip() method removes any white spaces before and after the string.
 ### Example:
 ```python
 str2 = " Silver Spoon "
-print(str2.strip)
+print(str2.strip())
 ```
 ### Output:
 ```
