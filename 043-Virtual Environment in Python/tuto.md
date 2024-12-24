@@ -1,7 +1,7 @@
 # For windows
-## 1.python
+## 1.This creates the virtual Environment
          python -m venv myenv
-## 2.
+## 2.This activates the virtual Environment
 ```python
 myenv\Scripts\activate 
 ```
