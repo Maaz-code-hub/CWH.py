@@ -1,6 +1,8 @@
 # For windows
 ## 1.This creates the virtual Environment
-         python -m venv myenv
+```python
+python -m venv myenv
+```
 ## 2.This activates the virtual Environment
 ```python
 myenv\Scripts\activate 
