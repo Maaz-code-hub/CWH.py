@@ -8,7 +8,7 @@ python -m venv myenv
 # Activate the virtual environment (Linux/macOS)
 source myenv/bin/activate
 # Activate the virtual environment (Windows)
-myenv\Scripts\activate.bat
+myenv\Scripts\activate
 Once the virtual environment is activated, any packages that you install using pip will be installed in the virtual environment, rather than in the global Python environment. This allows you to have a separate set of packages for each project, without affecting the packages installed in the global environment.
 
 To deactivate the virtual environment, you can use the deactivate command:
