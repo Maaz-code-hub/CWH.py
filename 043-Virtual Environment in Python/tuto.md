@@ -8,7 +8,7 @@ python -m venv myenv
 myenv\Scripts\activate 
 ```
 ## 3.Install vs code builder(During installation, select the "C++ build tools" workload and include the "MSVC v142 - VS 2019 C++ x64/x86 build tools" and the "Windows 10 SDK".) this may take some time
-## 4.Restart the sys
+## 4.Restart the sys(If needed!! else skip 3 and 4)
 ## 5.Open VS code build click on run then enter cl if no error occured succesfully installed 
 ## 6.For specific version
 ```python
